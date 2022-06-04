@@ -107,6 +107,12 @@
                grid-template-columns: 1fr 1fr;
                gap: 1rem;
            }
+           .about_content {
+               text-align: center;
+           }
+           .about_content p{
+               margin: 1.5rem 0;
+           }
            
     }
     
