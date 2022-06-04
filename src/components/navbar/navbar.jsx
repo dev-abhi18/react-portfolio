@@ -14,7 +14,7 @@ const Navbar = () => {
     <nav>
       <a href='#' onClick={()=> setActivenavbar('#')   } className={activenavbar=== '#' ? 'active' : ''}><AiTwotoneHome/></a>
       <a href='#about'onClick={()=> setActivenavbar('#about')   } className={activenavbar=== '#about' ? 'active' : ''}><BsFillPersonFill/></a>
-      <a href='#education' onClick={()=> setActivenavbar('#Skills')   } className={activenavbar=== '#Skills' ? 'active' : ''}><BsNutFill/></a>
+      <a href='#Skills' onClick={()=> setActivenavbar('#Skills')   } className={activenavbar=== '#Skills' ? 'active' : ''}><BsNutFill/></a>
       <a href='#projects' onClick={()=> setActivenavbar('#projects')   } className={activenavbar=== '#projects' ? 'active' : ''}><BiGitRepoForked/></a>
       <a href='#contact' onClick={()=> setActivenavbar('#contact')   } className={activenavbar=== '#contact' ? 'active' : ''}><FcContacts/></a>
     </nav>
