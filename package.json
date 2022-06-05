@@ -1,8 +1,12 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "homepage": "https://dev-abhi18.github.io/react-portfolio",
 =======
 >>>>>>> parent of cca204b (hosting on gh)
+=======
+  "homepage": "https://dev-abhi18/github.io/react-portfolio",
+>>>>>>> parent of 90648f4 (hosting on github)
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
