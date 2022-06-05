@@ -1,6 +1,7 @@
 import React from 'react'
 import './projects.css'
 import IMG1 from '../../assets/va.png'
+import IMG2 from '../../assets/bot.png'
 const projects = () => {
   return (
     <section id='projects'>
@@ -29,7 +30,7 @@ const projects = () => {
         </article>
         <article className='project_item'>
           <div className='project_item-image'>
-            <img src={IMG1} alt="" />
+            <img src={IMG2} alt="" />
           </div>
           <h3>Project Title</h3>
           <div className='project_item-cta'>
